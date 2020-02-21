@@ -26,9 +26,8 @@ https://amzn.to/2W3bwj9
 
 ### Online
 
-[Stay Safe] Online(https://staysafeonline.org/)
+[Stay Safe Online](https://staysafeonline.org/)
 A great resource for both your business, and you as an individual (and your family members, etc.). 
-
 
 Next: [Yes, Your Company is a Target](/You_Are_A_Target.md)
 ---
