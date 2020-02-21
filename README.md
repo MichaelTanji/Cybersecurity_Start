@@ -10,7 +10,7 @@ All company, brand, or product names used herein are trademarks™ or registered
 
 The author has received no remuneration from the companies, organizations, or individuals mentioned herein.
 
-
+[Begin Reading](/Introduction.md)
 
 #### Copyright © 2019 Michael Tanji
 #### All rights reserved.
