@@ -10,11 +10,11 @@ Let’s consider the phenomenon of “CEO Fraud” or "Business Email Compromise
 > From: Boss Lady <boss.lady@yourcompany.com>
 > To: Charlie Hodge <charlie.hodge@yourcompany.com>
 > Subject: For Action – wire funds
-
+>
 > Charlie,
-
+>
 > Need $10,000 earnest money wired to the account below to help close a deal. Please try to get this out before COB today.
-
+>
 > Boss
 
 What is Charlie likely to do? If your answer is “wire the money,” then guess what? You just became a victim of CEO fraud. The boss didn’t send that email, a cyber-criminal did. She figured out how to spoof the boss’s email (or maybe took control of her actual email account) and exploited the fact that Charlie is going to do as he’s told by his boss, as long as things don’t seem too out of whack. If she had asked for $1,000,000, Charlie would probably raise an eyebrow, but $10,000? That number isn’t out of line given the size of the company and the amounts of money that are normally moved around (remember: hackers do their homework), so he doesn’t think twice. 
