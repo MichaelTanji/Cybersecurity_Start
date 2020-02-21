@@ -16,7 +16,7 @@ As the final edits of this book were being made, a story broke about flaws found
 
 FDE is not foolproof. If you don’t shut a system down properly and completely, FDE won’t protect anything. If your password is easy to guess, you might as well not have bothered encrypting anything. 
 
-Can We Get Serious Now? 
+All legitimate points, but let's get serious... 
 
 [...]
 
