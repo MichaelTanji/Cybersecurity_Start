@@ -1,6 +1,6 @@
 # YES, YOUR COMPANY IS A TARGET
 
-No company is too small or unimportant to be attacked. Your perception that the size or nature of your business makes you an unattractive target is just that: your perception, not how the bad guys think. Today anyone with any computing resources is at risk because modern attacks make even individual PCs valuable to a criminal. The fact that you don’t deal with money or billion-dollar trade secrets arguably makes you a better target because you’re not paying attention to the risk like banks and Fortune 500 companies are.
+*No company is too small or unimportant to be attacked. Your perception that the size or nature of your business makes you an unattractive target is just that: your perception, not how the bad guys think. Today anyone with any computing resources is at risk because modern attacks make even individual PCs valuable to a criminal. The fact that you don’t deal with money or billion-dollar trade secrets arguably makes you a better target because you’re not paying attention to the risk like banks and Fortune 500 companies are.*
 
 There was a time when the nature of your business is what made you a target for cyber criminals. Banks, credit card companies, and so on were where the bad guys went because, to coin a phrase, that’s where the money was. 
 
